@@ -1,0 +1,14 @@
+uk.azdev.openfire
+uk.azdev.openfire.client
+uk.azdev.openfire.common
+uk.azdev.openfire.conversations
+uk.azdev.openfire.friendlist
+uk.azdev.openfire.friendlist.messageprocessors
+uk.azdev.openfire.net
+uk.azdev.openfire.net.attrvalues
+uk.azdev.openfire.net.messages
+uk.azdev.openfire.net.messages.bidirectional
+uk.azdev.openfire.net.messages.incoming
+uk.azdev.openfire.net.messages.outgoing
+uk.azdev.openfire.net.util
+uk.azdev.openfire.relay
